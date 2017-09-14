@@ -1,8 +1,8 @@
 // write your code below!
-var happyHolidays;
-var happysHolidayTo;
-var happyHolidayTo;
-var holidayCountdown;
+//var happyHolidays;
+//var happysHolidayTo;
+//var happyHolidayTo;
+//var holidayCountdown;
 
 function happyHolidays(){
   return "Happy Holidays!"
